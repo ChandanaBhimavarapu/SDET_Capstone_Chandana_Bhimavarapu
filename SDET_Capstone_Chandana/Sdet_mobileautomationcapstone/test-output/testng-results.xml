@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-09T15:59:41 IST" name="Default suite" finished-at="2024-04-09T16:00:17 IST" duration-ms="36456">
+    <groups>
+    </groups>
+    <test started-at="2024-04-09T15:59:41 IST" name="Default test" finished-at="2024-04-09T16:00:17 IST" duration-ms="36456">
+      <class name="MobileAutomation_Capstone.Sdet_mobileautomationcapstone.TC_Wifi_Checking_001">
+        <test-method is-config="true" signature="setup()[pri:0, instance:MobileAutomation_Capstone.Sdet_mobileautomationcapstone.TC_Wifi_Checking_001@2a265ea9]" started-at="2024-04-09T15:59:41 IST" name="setup" finished-at="2024-04-09T15:59:58 IST" duration-ms="17026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="WifiCheck()[pri:0, instance:MobileAutomation_Capstone.Sdet_mobileautomationcapstone.TC_Wifi_Checking_001@2a265ea9]" started-at="2024-04-09T15:59:58 IST" name="WifiCheck" finished-at="2024-04-09T16:00:17 IST" duration-ms="19336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WifiCheck -->
+      </class> <!-- MobileAutomation_Capstone.Sdet_mobileautomationcapstone.TC_Wifi_Checking_001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

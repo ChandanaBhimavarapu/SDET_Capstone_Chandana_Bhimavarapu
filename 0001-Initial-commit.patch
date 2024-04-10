@@ -1,0 +1,22 @@
+From 4dbc880212b26c6bb5fdc20478e04123096464bb Mon Sep 17 00:00:00 2001
+From: ChandanaBhimavarapu
+ <146804508+ChandanaBhimavarapu@users.noreply.github.com>
+Date: Wed, 10 Apr 2024 15:01:23 +0530
+Subject: [PATCH] Initial commit
+
+---
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..6f9c8c2
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1 @@
++# SDET_Capstone_Chandana_Bhimavarapu
+\ No newline at end of file
+-- 
+2.44.0.windows.1
+
